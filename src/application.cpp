@@ -15,7 +15,7 @@
 #include <string>
 #include <cstdio>
 
-Application* Application::instance = nullptr;
+Application* Application::instance = nullptr; //gfd
 Vector4 bg_color(0.5, 0.5, 0.5, 1.0);
 
 Camera* camera = nullptr;
